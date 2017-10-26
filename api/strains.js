@@ -3,12 +3,12 @@ const express = require("express");
 const router = express.Router();
 const queries = require('../db/queries');
 
-function isValidId(req, res, next) {
-  if (!isNaN(req.params.id)) {
-    return next();
-  }
-  next(new Error("Error...Invalid Strain"));
-}
+// function isValidId(req, res, next) {
+//   if (!isNaN(req.params.id)) {
+//     return next();
+//   }
+//   next(new Error("Error...Invalid Strain"));
+// }
 
 router.get("/", (req, res) => {
   queries.getStrains().then(strains => {
@@ -16,11 +16,11 @@ router.get("/", (req, res) => {
   });
 });
 
-router.get("/:id", isValidId, (req, res) => {
-  queries.getStrainById(req.params.id).then(strain => {
-    res.json(strain);
-  })
-})
+// router.get("/:id", isValidId, (req, res) => {
+//   queries.getStrainById(req.params.id).then(strain => {
+//     res.json(strain);
+//   })
+// })
 
 // router.post('/', (req, res) => {
 // 	const strain = {

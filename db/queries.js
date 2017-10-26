@@ -15,7 +15,7 @@ module.exports = {
 	},
 
 	updateStrain(strain) {
-		return('strains').where('id', strain.id)
+		return knex('strains').where('id', strain.id)
 	},
 
 	deleteStrainById() {

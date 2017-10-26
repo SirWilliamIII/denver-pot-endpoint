@@ -7,7 +7,8 @@ const express = require('express'),
 const port = process.env.PORT || 3000;
 const app = express()
 
-const strains = require('./api/strains')
+
+const router = require('./api/strains')
 
 app.use(
 	cors({
@@ -26,7 +27,8 @@ app.use(
 	})
 )
 app.use(cookieParser())
-app.use(strains)
+
+app.use(router)
 
 app.listen(port, () => {
 	console.log(`Listening on port ${port}`)

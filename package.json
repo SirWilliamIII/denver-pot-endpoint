@@ -1,0 +1,26 @@
+{
+  "name": "marijuana-endpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SirWilliamIII/denver-pot-endpoint.git"
+  },
+  "author": "Will Carpenter <willcarpenteriii@gmail.com> (https://willcarpenter.site)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirWilliamIII/denver-pot-endpoint/issues"
+  },
+  "homepage": "https://github.com/SirWilliamIII/denver-pot-endpoint#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gitignore": "^0.6.0",
+    "knex": "^0.13.0",
+    "nodemon": "^1.12.1",
+    "pg": "^7.3.0"
+  }
+}

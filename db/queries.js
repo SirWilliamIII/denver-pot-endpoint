@@ -1,7 +1,12 @@
 const knex = require('./knex')
 
 module.exports = {
-	getOneById(id) {
+
+	getStrains() {
+		return knex('strains')
+	},
+
+	getStrainById(id) {
 		return knex('strains').where('id', id).first()
 	},
 

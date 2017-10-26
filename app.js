@@ -4,7 +4,7 @@ const express = require('express'),
 	bodyParser = require('body-parser'),
 	cors = require('cors')
 
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 3000;
 const app = express()
 
 const strains = require('./api/strains')

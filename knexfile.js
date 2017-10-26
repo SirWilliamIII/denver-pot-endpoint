@@ -4,7 +4,9 @@ module.exports = {
     connection: 'postgres://localhost/strains'
   },
   production: {
-    client: "pg",
+    client: 'pg',
     connection: process.env.DATABASE_URL
   }
 };
+
+//just a comment

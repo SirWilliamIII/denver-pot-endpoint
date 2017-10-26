@@ -2,6 +2,9 @@
   "name": "marijuana-endpoint",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "8.4.0"
+  },
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -23,6 +26,7 @@
     "cors": "^2.8.4",
     "express": "^4.16.2",
     "gitignore": "^0.6.0",
+    "heroku-cli": "^6.14.36",
     "knex": "^0.13.0",
     "morgan": "^1.9.0",
     "nodemon": "^1.12.1",

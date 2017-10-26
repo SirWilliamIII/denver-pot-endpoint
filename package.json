@@ -2,9 +2,6 @@
   "name": "marijuana-endpoint",
   "version": "1.0.0",
   "description": "",
-  "engines": {
-    "node": "8.4.0"
-  },
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -12,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SirWilliamIII/denver-pot-endpoint.git"
+    "url": "https://github.com/SirWilliamIII/denver-pot-endpoint.git"
   },
   "author": "Will Carpenter <willcarpenteriii@gmail.com> (https://willcarpenter.site)",
   "license": "ISC",

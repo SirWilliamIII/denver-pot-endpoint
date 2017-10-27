@@ -1,0 +1,17 @@
+[
+  {
+    "name": "1n",
+    "climate": "1c",
+    "description": "1d"
+  },
+  {
+    "name": "2n",
+    "climate": "2c",
+    "description": "2d"
+  },
+  {
+    "name": "3n",
+    "climate": "3c",
+    "description": "3d"
+  }
+]

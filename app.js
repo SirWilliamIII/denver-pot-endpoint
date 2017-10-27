@@ -7,7 +7,6 @@ const express = require('express'),
 const port = process.env.PORT || 3000;
 const app = express()
 
-
 const router = require('./api/strains')
 
 app.use(

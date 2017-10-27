@@ -1,39 +1,12 @@
 const express = require("express");
 
-const router = express.Router();
-const queries = require('../db/queries');
+const router = express.Router()
 
-// function isValidId(req, res, next) {
-//   if (!isNaN(req.params.id)) {
-//     return next();
-//   }
-//   next(new Error("Error...Invalid Strain"));
-// }
+const strains = require('./lib/strains')
 
 router.get("/", (req, res) => {
-  queries.getStrains().then(strains => {
     res.json(strains);
-  });
-});
+})
 
-// router.get("/:id", isValidId, (req, res) => {
-//   queries.getStrainById(req.params.id).then(strain => {
-//     res.json(strain);
-//   })
-// })
-
-// router.post('/', (req, res) => {
-// 	const strain = {
-// 		image: req.body.image,
-// 		name: req.body.name,
-// 		class: req.body.class,
-// 		effects: req.body.effects,
-// 		description: req.body.description
-// 	}
-// 	queries.addStrain(strain)
-// 		.then(strain => {
-// 			res.json(strain)
-// 		})
-// })
 
 module.exports = router;

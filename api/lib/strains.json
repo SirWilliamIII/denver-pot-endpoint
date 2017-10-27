@@ -1,17 +1,23 @@
 [
   {
-    "name": "1n",
-    "climate": "1c",
-    "description": "1d"
+    "name": "Airborne G-13",
+	"class": "Hybrid",
+	"effects": "Relax & Relief",
+	"description": "With a hint of sage & lemon, this relaxing strain tastes just like it smells. The rumored government strain “G-13” crossed with Northern Lights #2 create an enjoyable indica dominant strain.",
+	"imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/A13-IMG_7894-copy-510x362.jpg"
   },
   {
-    "name": "2n",
-    "climate": "2c",
-    "description": "2d"
+    "name": "Blue Dream",
+    "class": "Sativa",
+	"description": "Good Chemistry’s award-winning strain, Blue Dream, is a sweet, smooth, smoke and may promote creativity. Known for it’s strength and length of high, Blue Dream’s lineage may balance full body relief with cerebral stimulation.",
+	"effects": "Amplify & Relief",
+	"imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/blue-dream-flower-test-IMG_7757-510x362.jpg"
   },
   {
-    "name": "3n",
-    "climate": "3c",
-    "description": "3d"
+    "name": "Chemdawg",
+	"class": "Sativa",
+	"effects": "",
+	"description": "With the rumored celebrity parents of OG Kush & Sour Diesel, this sativa dominant strain is a favorite amongst cannabis connoisseurs. Chemdawg is a potent strain that has a strong diesel-like aroma. Consumers may expect a creative lift accompanied by a relieving sensation.",
+	"imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/IMG_9340-Chemdawg-510x362.jpg"
   }
 ]

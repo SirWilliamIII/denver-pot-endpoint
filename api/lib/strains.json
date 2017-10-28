@@ -1,23 +1,135 @@
 [
   {
     "name": "Airborne G-13",
-	"class": "Hybrid",
-	"effects": "Relax & Relief",
-	"description": "With a hint of sage & lemon, this relaxing strain tastes just like it smells. The rumored government strain “G-13” crossed with Northern Lights #2 create an enjoyable indica dominant strain.",
-	"imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/A13-IMG_7894-copy-510x362.jpg"
+    "class": "Hybrid",
+    "effects": "Relax & Relief",
+    "description": "With a hint of sage & lemon, this relaxing strain tastes just like it smells. The rumored government strain “G-13” crossed with Northern Lights #2 create an enjoyable indica dominant strain.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/A13-IMG_7894-copy-510x362.jpg"
   },
   {
     "name": "Blue Dream",
     "class": "Sativa",
-	"description": "Good Chemistry’s award-winning strain, Blue Dream, is a sweet, smooth, smoke and may promote creativity. Known for it’s strength and length of high, Blue Dream’s lineage may balance full body relief with cerebral stimulation.",
-	"effects": "Amplify & Relief",
-	"imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/blue-dream-flower-test-IMG_7757-510x362.jpg"
+    "description": "Good Chemistry’s award-winning strain, Blue Dream, is a sweet, smooth, smoke and may promote creativity. Known for it’s strength and length of high, Blue Dream’s lineage may balance full body relief with cerebral stimulation.",
+    "effects": "Amplify & Relief",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/blue-dream-flower-test-IMG_7757-510x362.jpg"
+  },
+  {
+    "name": "Cashmere",
+    "class": "Indica",
+    "effects": "Relax & Relief",
+    "description": "Cashmere is an Indica dominant strain with a strong earthy & pine-like scent. After that first sensation of lift, Cashmere fans may feel relaxation and relief after consuming this strain.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/CASHMERE-IMG_7991-copy-510x362.jpg"
   },
   {
     "name": "Chemdawg",
-	"class": "Sativa",
-	"effects": "",
-	"description": "With the rumored celebrity parents of OG Kush & Sour Diesel, this sativa dominant strain is a favorite amongst cannabis connoisseurs. Chemdawg is a potent strain that has a strong diesel-like aroma. Consumers may expect a creative lift accompanied by a relieving sensation.",
-	"imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/IMG_9340-Chemdawg-510x362.jpg"
+    "class": "Sativa",
+    "effects": "Amplify & Relief",
+    "description": "With the rumored celebrity parents of OG Kush & Sour Diesel, this sativa dominant strain is a favorite amongst cannabis connoisseurs. Chemdawg is a potent strain that has a strong diesel-like aroma. Consumers may expect a creative lift accompanied by a relieving sensation.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/IMG_9340-Chemdawg-510x362.jpg"
+  },
+  {
+    "name": "Cherry AK-47",
+    "class": "Indica Dominant Hybrid",
+    "effects": "Amplify & Relax",
+    "description": "Cherry AK-47 is a hybrid cannabis strain that leans to the sativa side. This strain has a following based on the strong cherry-like scent alone. An uplifting and ‘chill’ high may occur when consuming Cherry AK-47.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/Cherry-AK-47-IMG_6835-510x362.jpg"
+  },
+  {
+    "name": "Colombian Gold '72",
+    "class": "Sativa",
+    "effects": "Relax & Relief",
+    "description": "There’s no school, like the old school! Colombian Gold is a well known land race strain said to originate from the Santa Marta mountains of Colombia. With a THC % that is moderately low, the entourage effect of this strain’s cannabinoid profile make Colombian Gold a wolf in sheep’s clothing.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/Colombian-Gold-72IMG_9640-CG-72-510x362.jpg"
+  },
+  {
+    "name": "Critical Kush",
+    "class": "Hybrid",
+    "effects": "Relax & Relief",
+    "description": "Critical Kush is a robust Indica strain with the combined lineage of OG Kush & Critical Mass. Consuming Critical Kush may have an earthy taste that Kush lovers know all too well, followed by the possibility of a restful high.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/Critical-KushIMG_9572-CK-510x362.jpg"
+  },
+  {
+    "name": "Flo",
+    "class": "Sativa",
+    "effects": "Amplify",
+    "description": "Flo is a sativa dominant strain that looks light green with subtle, purple hues. This strain possesses a unique sativa high that may leave consumers motivated & clear headed.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/FLO-IMG_7676-510x362.jpg"
+  },
+  {
+    "name": "Gorilla Glue #4",
+    "class": "Sativa",
+    "effects": "Amplify & Relief",
+    "description": "Gorilla Glue #4 is a strong hybrid strain that leans to the sativa side. There are 3 different diesel strains that make up the famous Gorilla Glue #4. A 1st place winner at multiple Cannabis Cups, this strain produces ample trichome coverage and may provide consumers a euphoric & relaxed lift.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/Gorilla-Glue-4-IMG_9574-GLU-510x362.jpg"
+  },
+  {
+    "name": "Grandfather Purp",
+    "class": "Indica Dominant Hybrid",
+    "effects": "Relax & Sleep",
+    "description": "Secret",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2017/03/Grandfather-Purp-IMG_6770-510x362.jpg"
+  },
+  {
+    "name": "Grape Ape",
+    "class": "Indica",
+    "effects": "Relax & Sleep",
+    "description": "Grape Ape is one of Good Chemistry’s stronger Indicas. Deep purple & dark green colors make up this photogenic strain. Grape Ape customers may unwind and get a good night’s sleep after consuming this purple flower.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/Grape-Ape-IMG_9425-510x362.jpg"
+  },
+  {
+    "name": "Grape Krush",
+    "class": "Hybrid",
+    "effects": "Relax & Relief",
+    "description": "Secret",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/11/Grape-Krush-IMG_8351-510x362.jpg"
+  },
+  {
+    "name": "Hindu Kush",
+    "class": "Indica",
+    "effects": "Relax & Relief",
+    "description": "Hindu Kush is a pure Indica named after the middle eastern mountain range it originated from. The effects of this strain may be good for a ‘chill’ evening, ready to unwind.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/HINDU-KUSH_7967-crop-510x362.jpg"
+  },
+  {
+    "name": "Ingrid",
+    "class": "Indica",
+    "effects": "Relief & Sleep",
+    "description": "Exclusive to Good Chemistry Nurseries, “Ingrid” is a heavy Indica strain that may be very helpful for night-time pain relief and sleep. Take your time when consuming Ingrid, as the extreme sedative effects may not present themselves until 30 minutes after use.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/INGRID-flower-IMG_7932-510x362.jpg"
+  },
+  {
+    "name": "Jack Herer",
+    "class": "Sativa",
+    "effects": "Amplify",
+    "description": "The sativa dominant Jack Herer strain is named after the infamous cannabis activist and author. The mysterious haze strain that makes up half of Jack Herer’s genetics, comes through in strength, as well as it’s fruity aroma. This daytime strain may have energetic, creative & focused effects.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/Jack-Herer-IMG_9545-JH-510x362.jpg"
+  },
+  {
+    "name": "Lamb's Bread",
+    "class": "Sativa",
+    "effects": "Amplify & Relief",
+    "description": "Lamb’s Bread aka Lambs Breath is rumored to be a landrace strain from Jamaica and also said to be a go-to strain, consumed by the legendary Bob Marley. This strain may provide a clear headed high and relief from pain & stress.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/IMG_9244-LAMBS-BREAD-510x362.jpg"
+  },
+  {
+    "name": "Lavender",
+    "class": "Indica",
+    "effects": "Relax & Sleep",
+    "description": "With an above average mix of genetics, Lavender’s potent ancestry provides dense flowers and a powerful Indica high. Lavender’s effects may have an unwinding effect easing the consumer into a good night’s rest.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/IMG_9544-LAV-LAVEDER-510x362.jpg"
+  },
+  {
+    "name": "Mob Boss",
+    "class": "Sativa",
+    "effects": "Amplify & Relief",
+    "description": "Secret",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/mob-boss-9900-510x362.jpg"
+  },
+  {
+    "name": "Mr. Good Chem",
+    "class": "Sativa",
+    "effects": "Amplify & Relief",
+    "description": "Proprietary to Good Chemistry Nurseries, Mr. Good Chem is a sativa dominant strain with unknown origin. Mr. Good Chem quickly became a favorite among employees and customers. The overall effect of Mr. Good Chem may provide a focused, creative high accompanied by possible stress relief.",
+    "imgUrl": "http://goodchem.org/wp-content/uploads/2016/06/MRGC-IMG_7631-510x362.jpg"
   }
 ]
